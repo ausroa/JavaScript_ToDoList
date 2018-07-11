@@ -1,2 +1,2 @@
 # JavaScript_ToDoList
-<p>A Simple To Do Web Application</p>
+<p>A simple To Do Web Application</p>
